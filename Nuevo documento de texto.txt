@@ -1,0 +1,47 @@
+PARA INICIAR GIT
+Click derecho en la carpeta del proyecto + seleccionar Git Bash
+git init CREAR UN REPO NUEVO (SE ESCRIBE UNA SOLA VEZ)
+git add . GUARDARgit
+git commit -m "mensaje" CONFIRMAR GUARDADO CON UN MENSAJE 
+git branch CREAR RAMAS
+git checkout 
+
+
+
+PARA GUARDAR UN ARCHIVO
+git add . 
+
+PARA CONFIRMAR EL GUARDADO 
+git commit -m "(comentario especifico)"
+
+PARA VERIFICAR LO QUE HEMOS GUARDADO
+git log
+
+PARA VERIFICAR LO QUE HEMOS GUARDADO (---MAS SIMPLE---)
+git log --oneline
+
+PARA ELIMINAR
+git checkout <numero del check guardado>
+
+PARA RECUPERAR
+git checkout <numero del check eliminado>
+396b93c 
+
+PARA CREAR RAMAS
+git branch <nombre>
+
+PARA VERIFICAR LAS RAMAS
+git branch -l
+
+PARA VERIFICAR EN QUE RAMA ESTOY TRABAJANDO
+git status
+
+PARA CAMBIAR DE RAMA
+git checkout <master>
+
+PARA VOLVER AL MASTER
+git checkout master
+
+
+token....
+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
